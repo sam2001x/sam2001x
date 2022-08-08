@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.website-files.com/5fbc3fcb12d95f9606608540/60ee224d5a8f6b5b0063f5b5_ErgqepMSY4xM4t0IVoWcgF7uToOxMd39nW8JvpCf8ZT2Ln4x0AIzA4huXNYTBYiqVPVYUWoCNrLhG96uBfJKP2T9TD6UFNLX56QlpiP8o-Z3cNZrVN6LzKhS-ijICQNx9f5WH8ed.png)]()
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)]()
 
 <h1 align="center">Hi 👋, I'm Saket Agrawal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
