@@ -1,5 +1,5 @@
 [![MasterHead](https://assets.website-files.com/5fbc3fcb12d95f9606608540/60ee224d5a8f6b5b0063f5b5_ErgqepMSY4xM4t0IVoWcgF7uToOxMd39nW8JvpCf8ZT2Ln4x0AIzA4huXNYTBYiqVPVYUWoCNrLhG96uBfJKP2T9TD6UFNLX56QlpiP8o-Z3cNZrVN6LzKhS-ijICQNx9f5WH8ed.png)]()
-<h1 align="center">Hi 👋, I'm Saket Agrawal</h1>
+
 <h1 align="center">Hi 👋, I'm Saket Agrawal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"/>
