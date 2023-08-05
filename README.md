@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures And Algorithm**
 
-- 💬 Ask me about **MERN , Android**
+- 💬 Ask me about **MEAN , Android**
 
 - 📫 How to reach me **saketneel15@gmail.com**
 
