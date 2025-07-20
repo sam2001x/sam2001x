@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning ** .NET Technology **
+- 🌱 I’m currently  ** Evolving **
 
-- 💬 Ask me about **MEAN , Android**
+- 💬 Ask me about **Anything in Tech**
 
 - 📫 How to reach me **saketneel15@gmail.com**
 
